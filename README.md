@@ -1,2 +1,2 @@
-# pipe-order-planning
-Automate finding pipe product
+# order-planning
+Reduce error-prone
